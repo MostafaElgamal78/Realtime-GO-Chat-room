@@ -21,7 +21,6 @@ This project includes both a client and a server, allowing multiple users to joi
 project/
 │── client.go
 │── server.go
-│── README.md
 ```
 
 ---
