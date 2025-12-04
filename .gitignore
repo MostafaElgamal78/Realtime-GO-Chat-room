@@ -1,0 +1,38 @@
+# Go build artifacts
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace files
+
+bin/
+build/
+dist/
+
+# Module cache (optional to ignore)
+
+pkg/
+
+# IDE folders
+
+.vscode/
+.idea/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
